@@ -1,0 +1,11 @@
+D:\VisualStudio\LearnC\LearnC\bin\Debug\netcoreapp3.1\LearnC.exe
+D:\VisualStudio\LearnC\LearnC\bin\Debug\netcoreapp3.1\LearnC.deps.json
+D:\VisualStudio\LearnC\LearnC\bin\Debug\netcoreapp3.1\LearnC.runtimeconfig.json
+D:\VisualStudio\LearnC\LearnC\bin\Debug\netcoreapp3.1\LearnC.runtimeconfig.dev.json
+D:\VisualStudio\LearnC\LearnC\bin\Debug\netcoreapp3.1\LearnC.dll
+D:\VisualStudio\LearnC\LearnC\bin\Debug\netcoreapp3.1\LearnC.pdb
+D:\VisualStudio\LearnC\LearnC\obj\Debug\netcoreapp3.1\LearnC.csprojAssemblyReference.cache
+D:\VisualStudio\LearnC\LearnC\obj\Debug\netcoreapp3.1\LearnC.AssemblyInfoInputs.cache
+D:\VisualStudio\LearnC\LearnC\obj\Debug\netcoreapp3.1\LearnC.AssemblyInfo.cs
+D:\VisualStudio\LearnC\LearnC\obj\Debug\netcoreapp3.1\LearnC.dll
+D:\VisualStudio\LearnC\LearnC\obj\Debug\netcoreapp3.1\LearnC.pdb
